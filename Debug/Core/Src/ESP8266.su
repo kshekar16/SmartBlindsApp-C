@@ -1,0 +1,10 @@
+ESP8266.c:4:5:esp8266_reset	48	static
+ESP8266.c:16:5:esp8266_init	192	static
+ESP8266.c:95:5:esp8266_setupTCP	120	static
+ESP8266.c:155:5:make_ATCWJAP_command	40	static
+ESP8266.c:186:5:esp8266_check_ip_address	136	static
+ESP8266.c:203:5:esp8266_connectWifi	240	static
+ESP8266.c:249:5:make_ATcommand_sendmsg	40	static
+ESP8266.c:275:5:esp8266_sendmsg	144	dynamic
+ESP8266.c:313:5:esp8266_check_wifi_connection	104	static
+ESP8266.c:340:5:esp8266_send_current_data	40	static
